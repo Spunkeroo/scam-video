@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>scam.video — The Best Scam Exposure Videos</title>
+  <meta name="description" content="Curated scam exposure videos from Coffeezilla, Kitboga, Jim Browning, and more. Browse by creator, category, or scam type. Better than YouTube's algorithm.">
+  <meta name="keywords" content="scam videos, coffeezilla, kitboga, jim browning, scam exposure, crypto scam, phone scam, scam baiting">
+  <meta property="og:title" content="scam.video — The Best Scam Exposure Videos">
+  <meta property="og:description" content="Curated scam exposure videos from the best creators. Browse by creator, category, or scam type.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://scam.video">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎬</text></svg>">
+  <link rel="canonical" href="https://scam.video">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <!-- Network Bar -->
+  <div class="network-bar">
+    <div class="network-bar-inner">
+      <span class="network-label">scam.*</span>
+      <a href="https://scam.stream" target="_blank">scam.stream</a>
+      <a href="https://scam.wiki" target="_blank">scam.wiki</a>
+      <a href="https://scam.video" class="active">scam.video</a>
+      <a href="https://scam.courses" target="_blank">scam.courses</a>
+    </div>
+  </div>
+
+  <!-- Header -->
+  <header class="site-header">
+    <div class="header-inner">
+      <img src="assets/logo.svg" alt="scam.video" class="logo" onclick="location.hash='/'">
+      <div class="header-search">
+        <span class="search-icon">&#128269;</span>
+        <input type="text" id="header-search-input" placeholder="Search videos, creators..." autocomplete="off">
+        <div class="search-results" id="header-search-results"></div>
+      </div>
+      <nav class="header-nav">
+        <a href="#/browse">Browse</a>
+        <a href="#/creators">Creators</a>
+      </nav>
+      <button class="mobile-menu-btn" id="mobile-menu">&#9776;</button>
+    </div>
+  </header>
+
+  <!-- App -->
+  <div id="app">
+    <div class="main-content">
+      <div class="loading">Loading...</div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div class="footer-section">
+        <h4>scam.video</h4>
+        <p>The best scam exposure videos on the internet, curated and organized better than YouTube. Knowledge is your best defense against fraud.</p>
+      </div>
+      <div class="footer-section">
+        <h4>Browse</h4>
+        <a href="#/browse?category=crypto">Crypto Scams</a>
+        <a href="#/browse?category=nft">NFT Scams</a>
+        <a href="#/browse?category=phone">Phone Scams</a>
+        <a href="#/browse?category=romance">Romance Scams</a>
+        <a href="#/browse?category=online">Online Fraud</a>
+        <a href="#/creators">All Creators</a>
+      </div>
+      <div class="footer-section">
+        <h4>Network</h4>
+        <a href="https://scam.stream" target="_blank">scam.stream</a>
+        <a href="https://scam.wiki" target="_blank">scam.wiki</a>
+        <a href="https://scam.video">scam.video</a>
+        <a href="https://scam.courses" target="_blank">scam.courses</a>
+      </div>
+      <div class="footer-section">
+        <h4>Protect Yourself</h4>
+        <a href="https://www.ledger.com" target="_blank" rel="noopener">Ledger Wallet</a>
+        <a href="https://www.trezor.io" target="_blank" rel="noopener">Trezor Wallet</a>
+        <a href="https://nordvpn.com" target="_blank" rel="noopener">NordVPN</a>
+        <a href="https://1password.com" target="_blank" rel="noopener">1Password</a>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>scam.video is an independent educational project. Not financial or legal advice. All videos are property of their respective creators.</p>
+      <p style="margin-top:8px">Support this project:</p>
+      <div class="donation-address" onclick="navigator.clipboard.writeText('bc1pkepg42ctsvsxk499qu02qqyyz88gwjchnjpsu22wmng9rhpfv3jqw2t2hm');this.textContent='&#10003; Copied!';" title="Click to copy BTC address">
+        bc1pkepg42ctsvsxk499qu02qqyyz88gwjchnjpsu22wmng9rhpfv3jqw2t2hm
+      </div>
+      <p style="margin-top:16px">&copy; 2026 scam.video &mdash; All rights reserved.</p>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="js/votes.js"></script>
+  <script src="js/search.js"></script>
+  <script src="js/home.js"></script>
+  <script src="js/browse.js"></script>
+  <script src="js/player.js"></script>
+  <script src="js/creators.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
