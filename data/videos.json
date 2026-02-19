@@ -4,15 +4,15 @@
       "id": "coffeezilla",
       "name": "Coffeezilla",
       "channelUrl": "https://youtube.com/@Coffeezilla",
-      "subscribers": "3.8M",
+      "subscribers": "4.2M",
       "description": "Internet detective exposing fake gurus, crypto scams, and online fraud. Known for deep investigative journalism into the biggest scams in tech and crypto.",
-      "avatar": "https://yt3.googleusercontent.com/ytc/AIf8zZQlJRACcYMn2GQNG2yFRwJ_JQJZ3J3Q3J3Q3J3Q=s176-c-k-c0x00ffffff-no-rj"
+      "avatar": ""
     },
     {
       "id": "kitboga",
       "name": "Kitboga",
       "channelUrl": "https://youtube.com/@Kitboga",
-      "subscribers": "3.5M",
+      "subscribers": "3.8M",
       "description": "Scam baiter who wastes tech support and refund scammers' time using hilarious character acting, fake banks, and elaborate setups.",
       "avatar": ""
     },
@@ -20,23 +20,23 @@
       "id": "jimbrowning",
       "name": "Jim Browning",
       "channelUrl": "https://youtube.com/@JimBrowning",
-      "subscribers": "4.3M",
-      "description": "Cybersecurity expert who hacks into scam call centers, accesses their CCTV, and exposes their operations to law enforcement.",
+      "subscribers": "4.4M",
+      "description": "Cybersecurity expert who hacks into scam call centers, accesses their CCTV, and exposes their operations to law enforcement. Helped bust 2000+ scammers in Dubai.",
       "avatar": ""
     },
     {
       "id": "pleasantgreen",
       "name": "Pleasant Green",
       "channelUrl": "https://youtube.com/@PleasantGreen",
-      "subscribers": "1.6M",
-      "description": "Scam baiter who engages with romance scammers, Nigerian prince scammers, and online fraudsters, turning the tables with absurd scenarios.",
+      "subscribers": "2.1M",
+      "description": "Scam baiter who engages with romance scammers, marketplace fraudsters, and online con artists, turning the tables with creative setups.",
       "avatar": ""
     },
     {
       "id": "scammerpayback",
       "name": "ScammerPayback",
       "channelUrl": "https://youtube.com/@ScammerPayback",
-      "subscribers": "8.5M",
+      "subscribers": "9M",
       "description": "Pierogi reverse-hacks scammers' computers, deleting their files and disrupting their operations while exposing their victim lists.",
       "avatar": ""
     },
@@ -44,7 +44,7 @@
       "id": "markrober",
       "name": "Mark Rober",
       "channelUrl": "https://youtube.com/@MarkRober",
-      "subscribers": "48M",
+      "subscribers": "52M",
       "description": "Former NASA engineer who uses his engineering skills to combat porch pirates and expose scam call centers with elaborate traps.",
       "avatar": ""
     },
@@ -52,7 +52,7 @@
       "id": "someordinarygamers",
       "name": "SomeOrdinaryGamers",
       "channelUrl": "https://youtube.com/@SomeOrdinaryGamers",
-      "subscribers": "3.6M",
+      "subscribers": "3.9M",
       "description": "Mutahar exposes internet scams, fake reviews, NFT fraud, and shady practices in the tech world.",
       "avatar": ""
     },
@@ -68,7 +68,7 @@
       "id": "coldfusion",
       "name": "ColdFusion",
       "channelUrl": "https://youtube.com/@ColdFusion",
-      "subscribers": "5M",
+      "subscribers": "5.5M",
       "description": "In-depth documentaries covering the biggest financial frauds, Ponzi schemes, and corporate scandals in history.",
       "avatar": ""
     },
@@ -76,7 +76,7 @@
       "id": "trilogymedia",
       "name": "Trilogy Media",
       "channelUrl": "https://youtube.com/@TrilogyMedia",
-      "subscribers": "2.1M",
+      "subscribers": "2.3M",
       "description": "Undercover investigations into scam operations, confronting scammers face-to-face and exposing their tactics.",
       "avatar": ""
     },
@@ -84,7 +84,7 @@
       "id": "bbc",
       "name": "BBC",
       "channelUrl": "https://youtube.com/@BBC",
-      "subscribers": "14M",
+      "subscribers": "15M",
       "description": "Investigative documentaries covering the biggest financial frauds and crypto scams worldwide.",
       "avatar": ""
     }
@@ -92,75 +92,383 @@
   "videos": [
     {
       "id": 1,
+      "title": "Exposing a $10,000,000,000 Debt Industry",
+      "videoId": "hBNWInRS6hM",
+      "creator": "coffeezilla",
+      "category": "online",
+      "description": "Coffeezilla investigates the predatory debt relief industry that preys on desperate people, exposing a $10 billion scheme.",
+      "featured": true,
+      "featuredDate": "2026-02-19",
+      "date": "2025-12-22",
+      "views": "3.2M",
+      "duration": "28:15"
+    },
+    {
+      "id": 2,
+      "title": "Exposing a Romance Scammer",
+      "videoId": "ACijyfS3ya4",
+      "creator": "coffeezilla",
+      "category": "romance",
+      "description": "Coffeezilla goes deep into the world of romance scams, tracking down and confronting scammers who prey on the lonely.",
+      "featured": true,
+      "featuredDate": "2026-02-18",
+      "date": "2025-12-01",
+      "views": "4.1M",
+      "duration": "25:30"
+    },
+    {
+      "id": 3,
+      "title": "Exposing the Gambling Epidemic",
+      "videoId": "9Ii1ROzeSwU",
+      "creator": "coffeezilla",
+      "category": "online",
+      "description": "Investigation into the explosive growth of online gambling and how it's destroying lives, with shadowy operators dodging regulation.",
+      "featured": true,
+      "featuredDate": "2026-02-17",
+      "date": "2025-10-30",
+      "views": "5.8M",
+      "duration": "32:40"
+    },
+    {
+      "id": 4,
+      "title": "Stealing $21,000,000 From Melania Trump and MAGA",
+      "videoId": "619oKirSiCM",
+      "creator": "coffeezilla",
+      "category": "crypto",
+      "description": "How insiders made millions from the Melania Trump memecoin while regular MAGA supporters lost everything.",
+      "featured": true,
+      "featuredDate": "2026-02-16",
+      "date": "2025-06-30",
+      "views": "8.5M",
+      "duration": "29:18"
+    },
+    {
+      "id": 5,
+      "title": "I Got This Celebrity Scammer to Confess",
+      "videoId": "d_oLziAyN_o",
+      "creator": "coffeezilla",
+      "category": "crypto",
+      "description": "Coffeezilla confronts a celebrity crypto scammer and gets them to admit to defrauding fans.",
+      "featured": true,
+      "featuredDate": "2026-02-15",
+      "date": "2025-06-14",
+      "views": "6.2M",
+      "duration": "24:55"
+    },
+    {
+      "id": 6,
+      "title": "Argentina's Memecoin Disaster Is Worse Than You Think",
+      "videoId": "Ud6GuH7gSDw",
+      "creator": "coffeezilla",
+      "category": "crypto",
+      "description": "The $LIBRA memecoin promoted by Argentina's president Milei — insiders made $113M while regular people lost everything.",
+      "date": "2025-02-20",
+      "wikiSlug": "libra-memecoin",
+      "views": "7.1M",
+      "duration": "26:42"
+    },
+    {
+      "id": 7,
+      "title": "Investigating MrBeast",
+      "videoId": "dslLBsHkVzE",
+      "creator": "coffeezilla",
+      "category": "crypto",
+      "description": "Deep investigation into MrBeast's crypto activities, NFT trades, and allegations of insider trading with KSI.",
+      "date": "2024-11-14",
+      "views": "12M",
+      "duration": "34:20"
+    },
+    {
+      "id": 8,
+      "title": "Exposing Andrew Tate's Crypto Grift",
+      "videoId": "e4UJE8XbrUs",
+      "creator": "coffeezilla",
+      "category": "crypto",
+      "description": "How Andrew Tate used his massive following to pump and dump crypto tokens, leaving fans holding worthless bags.",
+      "date": "2024-10-19",
+      "views": "9.8M",
+      "duration": "27:33"
+    },
+    {
+      "id": 9,
+      "title": "Logan Paul Sued Me",
+      "videoId": "ogtrkO1iqFU",
+      "creator": "coffeezilla",
+      "category": "crypto",
+      "description": "Logan Paul files a defamation lawsuit against Coffeezilla — the story behind CryptoZoo and Liquid Marketplace fraud.",
+      "date": "2024-08-05",
+      "wikiSlug": "cryptozoo",
+      "views": "11M",
+      "duration": "31:15"
+    },
+    {
+      "id": 10,
+      "title": "I Got Bribed By Casinos, But I Exposed Them Instead",
+      "videoId": "q58dLWjRTBE",
+      "creator": "coffeezilla",
+      "category": "online",
+      "description": "CS2 gambling sites offered Coffeezilla $20K to attack rivals — he exposed the entire corrupt industry instead.",
+      "date": "2024-12-18",
+      "views": "8.3M",
+      "duration": "35:10"
+    },
+    {
+      "id": 11,
+      "title": "Deception, Lies, and Valve",
+      "videoId": "13eiDhuvM6Y",
+      "creator": "coffeezilla",
+      "category": "online",
+      "description": "Part of the CS2 gambling investigation — how Valve enables a massive underage gambling ecosystem.",
+      "date": "2024-12-26",
+      "views": "6.7M",
+      "duration": "30:05"
+    },
+    {
+      "id": 12,
+      "title": "The Dark Side of Counter-Strike 2",
+      "videoId": "v6jhjjVy5Ls",
+      "creator": "coffeezilla",
+      "category": "online",
+      "description": "Exposing the shadowy CS2 skin gambling underworld — billions flowing through unregulated casinos targeting kids.",
+      "date": "2024-12-22",
+      "views": "5.9M",
+      "duration": "28:45"
+    },
+    {
+      "id": 13,
+      "title": "The Bank That Won't Let You Withdraw",
+      "videoId": "WCBA5ej4UBY",
+      "creator": "coffeezilla",
+      "category": "online",
+      "description": "Investigation into a bank that traps customers' money and refuses withdrawals, using legal loopholes.",
+      "date": "2025-03-31",
+      "views": "4.5M",
+      "duration": "22:18"
+    },
+    {
+      "id": 14,
+      "title": "Coffeezilla The Movie",
+      "videoId": "3Yvkf-G9IHM",
+      "creator": "coffeezilla",
+      "category": "online",
+      "description": "The full story of how Coffeezilla became YouTube's most feared scam investigator — from engineering student to internet detective.",
+      "date": "2024-06-27",
+      "views": "5.1M",
+      "duration": "45:30"
+    },
+    {
+      "id": 15,
+      "title": "The largest ARREST of scammers in the world!",
+      "videoId": "dV9U_aoHI_g",
+      "creator": "jimbrowning",
+      "category": "phone",
+      "description": "Jim Browning's investigation leads to the arrest of 2,000+ pig butchering scammers in a single Dubai raid — the biggest scam bust in history.",
+      "date": "2025-03-05",
+      "views": "8.4M",
+      "duration": "22:30"
+    },
+    {
+      "id": 16,
+      "title": "Infiltrating BANK SCAMMERS",
+      "videoId": "c6zWJh0GtZs",
+      "creator": "jimbrowning",
+      "category": "phone",
+      "description": "Jim Browning hacks into a bank impersonation scam call center, accessing their CCTV and exposing the operation from the inside.",
+      "date": "2024-06-15",
+      "views": "6.1M",
+      "duration": "18:44"
+    },
+    {
+      "id": 17,
+      "title": "Inside a Pig Butchering Scam",
+      "videoId": "vu-Y1h9rTUs",
+      "creator": "jimbrowning",
+      "category": "romance",
+      "description": "Jim infiltrates a pig butchering compound in Southeast Asia, documenting the human trafficking and forced labor behind crypto romance scams.",
+      "date": "2024-02-25",
+      "views": "7.8M",
+      "duration": "25:15"
+    },
+    {
+      "id": 18,
+      "title": "Disrupting a scammer for a WHOLE WEEK",
+      "videoId": "txUmwD4IcMw",
+      "creator": "jimbrowning",
+      "category": "phone",
+      "description": "Jim Browning maintains access to a scammer's system for an entire week, documenting everything and protecting victims in real time.",
+      "date": "2024-03-31",
+      "views": "5.2M",
+      "duration": "20:30"
+    },
+    {
+      "id": 19,
+      "title": "They want you to MISDIAL",
+      "videoId": "h9Rk51WQC9A",
+      "creator": "jimbrowning",
+      "category": "phone",
+      "description": "Exposing how scammers set up fake customer service numbers hoping you'll misdial — then steal your banking info.",
+      "date": "2024-11-22",
+      "views": "4.3M",
+      "duration": "15:48"
+    },
+    {
+      "id": 20,
+      "title": "Real audio of a Bank Impersonation scam",
+      "videoId": "MBMQHRqn9VI",
+      "creator": "jimbrowning",
+      "category": "phone",
+      "description": "Raw audio recording of a bank impersonation scam in progress — hear exactly how these criminals manipulate victims.",
+      "date": "2025-09-25",
+      "views": "3.8M",
+      "duration": "12:20"
+    },
+    {
+      "id": 21,
+      "title": "The Job Scam",
+      "videoId": "AC6Bar_DxaM",
+      "creator": "jimbrowning",
+      "category": "online",
+      "description": "Jim Browning investigates fake job scams that lure desperate job seekers into handing over personal data and money.",
+      "date": "2025-08-10",
+      "views": "4.6M",
+      "duration": "17:55"
+    },
+    {
+      "id": 22,
+      "title": "Scambaiters vs. Scammers - Who will win?",
+      "videoId": "bFhlZuKPeNU",
+      "creator": "jimbrowning",
+      "category": "phone",
+      "description": "Jim Browning joins forces with other scambaiters in an epic battle against scam call centers.",
+      "date": "2025-07-19",
+      "views": "5.5M",
+      "duration": "24:10"
+    },
+    {
+      "id": 23,
+      "title": "Exposing a Payday Loan Scammer",
+      "videoId": "iH7PbzEdtFc",
+      "creator": "pleasantgreen",
+      "category": "online",
+      "description": "Pleasant Green exposes predatory payday loan scammers who trap victims in endless debt cycles.",
+      "date": "2026-02-17",
+      "views": "1.2M",
+      "duration": "18:30"
+    },
+    {
+      "id": 24,
+      "title": "If You See This on Facebook Marketplace, It's a Scam",
+      "videoId": "Jy9KYAc7dgg",
+      "creator": "pleasantgreen",
+      "category": "online",
+      "description": "How to spot marketplace scams on Facebook — Pleasant Green walks through the red flags everyone misses.",
+      "date": "2026-01-31",
+      "views": "2.1M",
+      "duration": "16:45"
+    },
+    {
+      "id": 25,
+      "title": "The DoorDash Scam Costing Drivers Thousands",
+      "videoId": "cuNNAPFfyzI",
+      "creator": "pleasantgreen",
+      "category": "online",
+      "description": "Investigation into scammers targeting DoorDash and gig economy drivers, stealing thousands through fake support calls.",
+      "date": "2026-01-28",
+      "views": "1.8M",
+      "duration": "19:22"
+    },
+    {
+      "id": 26,
+      "title": "We Got 38 Scammers Arrested!",
+      "videoId": "LDH9vjiG7Cg",
+      "creator": "pleasantgreen",
+      "category": "phone",
+      "description": "Pleasant Green's investigations lead to the arrest of 38 scammers across multiple countries.",
+      "date": "2025-10-31",
+      "views": "3.4M",
+      "duration": "22:15"
+    },
+    {
+      "id": 27,
+      "title": "Watch This if You're Being Sextorted",
+      "videoId": "ZnqmaenfOqY",
+      "creator": "pleasantgreen",
+      "category": "romance",
+      "description": "Essential guide for sextortion victims — how these scams work and exactly what to do if you're targeted.",
+      "date": "2025-11-18",
+      "views": "2.8M",
+      "duration": "15:40"
+    },
+    {
+      "id": 28,
+      "title": "Scammer Regrets Inviting Me Into His Secret Society!",
+      "videoId": "QacGzjCtYN0",
+      "creator": "pleasantgreen",
+      "category": "online",
+      "description": "A scammer running a fake secret society invitation scam deeply regrets engaging with Pleasant Green.",
+      "date": "2025-12-19",
+      "views": "2.5M",
+      "duration": "20:08"
+    },
+    {
+      "id": 29,
+      "title": "I Found Out Who's Really Sending Those Scam Texts",
+      "videoId": "d0u5NEBPER8",
+      "creator": "pleasantgreen",
+      "category": "phone",
+      "description": "Tracing the source of mass scam text messages — Pleasant Green follows the trail to find who's really behind them.",
+      "date": "2025-09-30",
+      "views": "3.1M",
+      "duration": "21:33"
+    },
+    {
+      "id": 30,
+      "title": "Don't Accept Free Puppies From Scammers!",
+      "videoId": "g22bPdSlomQ",
+      "creator": "pleasantgreen",
+      "category": "online",
+      "description": "The free puppy scam that steals hundreds from animal lovers — Pleasant Green exposes how it works.",
+      "date": "2025-10-18",
+      "views": "2.2M",
+      "duration": "17:55"
+    },
+    {
+      "id": 31,
       "title": "Investigating Logan Paul's Biggest Scam",
       "videoId": "386p68_lDHA",
       "creator": "coffeezilla",
       "category": "crypto",
       "description": "Deep dive into CryptoZoo — Logan Paul's failed NFT game that took millions from fans.",
-      "featured": true,
-      "featuredDate": "2026-02-16",
       "date": "2023-01-01",
       "wikiSlug": "cryptozoo",
       "views": "12M",
       "duration": "28:41"
     },
     {
-      "id": 2,
-      "title": "The $40 Billion Luna Crash",
-      "videoId": "LVDkzMDnF0Q",
-      "creator": "coffeezilla",
-      "category": "crypto",
-      "description": "How Terra/LUNA collapsed and wiped out billions in a matter of days.",
-      "featured": true,
-      "featuredDate": "2026-02-15",
-      "date": "2022-06-01",
-      "wikiSlug": "terra-luna",
-      "views": "8.5M",
-      "duration": "22:15"
-    },
-    {
-      "id": 3,
+      "id": 32,
       "title": "I Called A Scammer To Waste Their Time",
       "videoId": "le71yVPh4uk",
       "creator": "kitboga",
       "category": "phone",
       "description": "Kitboga wastes tech support scammers' time with hilarious character acting.",
-      "featured": true,
-      "featuredDate": "2026-02-14",
       "date": "2022-01-15",
       "views": "15M",
       "duration": "35:22"
     },
     {
-      "id": 4,
+      "id": 33,
       "title": "How FTX Scammed Everyone",
       "videoId": "20BEJouWBgY",
       "creator": "coffeezilla",
       "category": "crypto",
       "description": "The full story of how Sam Bankman-Fried defrauded millions through FTX.",
-      "featured": true,
-      "featuredDate": "2026-02-13",
       "date": "2022-12-01",
       "wikiSlug": "ftx",
       "views": "18M",
       "duration": "31:08"
     },
     {
-      "id": 5,
-      "title": "The BitConnect Scam Explained",
-      "videoId": "lCcwn6bGUtU",
-      "creator": "coffeezilla",
-      "category": "crypto",
-      "description": "Breaking down one of crypto's biggest Ponzi schemes — BitConnect.",
-      "featured": true,
-      "featuredDate": "2026-02-12",
-      "date": "2021-09-01",
-      "wikiSlug": "bitconnect",
-      "views": "6.2M",
-      "duration": "24:33"
-    },
-    {
-      "id": 6,
+      "id": 34,
       "title": "NFT Rug Pulls - How They Work",
       "videoId": "YQ_xWvX1n9g",
       "creator": "coffeezilla",
@@ -171,7 +479,7 @@
       "duration": "19:47"
     },
     {
-      "id": 7,
+      "id": 35,
       "title": "Scamming The Scammer",
       "videoId": "VrKW58MS12g",
       "creator": "jimbrowning",
@@ -182,63 +490,7 @@
       "duration": "16:44"
     },
     {
-      "id": 8,
-      "title": "The Fake Crypto Guru Pipeline",
-      "videoId": "HiIcwt_77Hk",
-      "creator": "coffeezilla",
-      "category": "crypto",
-      "description": "How fake crypto gurus use rented Lambos and paid testimonials to sell worthless courses.",
-      "date": "2022-07-01",
-      "views": "4.8M",
-      "duration": "21:55"
-    },
-    {
-      "id": 9,
-      "title": "Romance Scams: The $1 Billion Industry",
-      "videoId": "bGjlvjCFXiw",
-      "creator": "vice",
-      "category": "romance",
-      "description": "Inside the world of romance scams that steal billions from lonely victims worldwide.",
-      "date": "2021-02-01",
-      "views": "9.3M",
-      "duration": "42:18"
-    },
-    {
-      "id": 10,
-      "title": "I Investigated Fake Amazon Reviews",
-      "videoId": "JA2kHK-yBUk",
-      "creator": "someordinarygamers",
-      "category": "online",
-      "description": "Exposing the underground industry of fake reviews that manipulate what you buy.",
-      "date": "2022-05-01",
-      "views": "3.2M",
-      "duration": "18:30"
-    },
-    {
-      "id": 11,
-      "title": "The Biggest Ponzi Scheme in History",
-      "videoId": "jD2E2lGhnNo",
-      "creator": "coldfusion",
-      "category": "crypto",
-      "description": "The rise and fall of OneCoin — the biggest cryptocurrency Ponzi scheme ever.",
-      "date": "2022-08-01",
-      "wikiSlug": "onecoin",
-      "views": "7.1M",
-      "duration": "26:12"
-    },
-    {
-      "id": 12,
-      "title": "Pig Butchering: The New Crypto Scam",
-      "videoId": "oMJqD0sT0eY",
-      "creator": "vice",
-      "category": "romance",
-      "description": "How organized crime syndicates run 'pig butchering' romance-meets-crypto scams.",
-      "date": "2023-04-01",
-      "views": "5.8M",
-      "duration": "38:05"
-    },
-    {
-      "id": 13,
+      "id": 36,
       "title": "Exposing Crypto's Biggest Scammer - SafeMoon",
       "videoId": "CzbBi0agLNg",
       "creator": "coffeezilla",
@@ -250,29 +502,7 @@
       "duration": "27:44"
     },
     {
-      "id": 14,
-      "title": "I Investigated Jake Paul's Biggest Scam",
-      "videoId": "dA_IB9AWwHk",
-      "creator": "coffeezilla",
-      "category": "crypto",
-      "description": "Exposing Jake Paul's involvement in promoting scam crypto tokens to his massive audience.",
-      "date": "2022-09-01",
-      "views": "11M",
-      "duration": "25:18"
-    },
-    {
-      "id": 15,
-      "title": "Exposing The World's Biggest NFT Scam",
-      "videoId": "C6jnWMbnGSY",
-      "creator": "coffeezilla",
-      "category": "nft",
-      "description": "Investigation into one of the largest NFT rug pulls, tracing stolen funds and revealing the people behind it.",
-      "date": "2022-02-01",
-      "views": "7.8M",
-      "duration": "23:51"
-    },
-    {
-      "id": 16,
+      "id": 37,
       "title": "Scammer Thinks He Won $500,000",
       "videoId": "sRMMwpDTs5k",
       "creator": "kitboga",
@@ -283,18 +513,7 @@
       "duration": "41:33"
     },
     {
-      "id": 17,
-      "title": "Angry Scammer Loses It After Being Baited For Hours",
-      "videoId": "9G5qB4Jkp5I",
-      "creator": "kitboga",
-      "category": "phone",
-      "description": "A furious scammer rages after Kitboga strings him along for hours with his grandmother character.",
-      "date": "2021-03-01",
-      "views": "13M",
-      "duration": "38:17"
-    },
-    {
-      "id": 18,
+      "id": 38,
       "title": "Spying on the Scammers",
       "videoId": "0dT6jB2Dbmk",
       "creator": "jimbrowning",
@@ -305,62 +524,7 @@
       "duration": "14:22"
     },
     {
-      "id": 19,
-      "title": "Confronting The Scammer Who Tried To Steal $40,000",
-      "videoId": "YMFAFXx-g14",
-      "creator": "jimbrowning",
-      "category": "phone",
-      "description": "Jim tracks down and confronts a scammer who attempted to steal tens of thousands from elderly victims.",
-      "date": "2021-08-01",
-      "views": "10M",
-      "duration": "20:05"
-    },
-    {
-      "id": 20,
-      "title": "I Replied To A Nigerian Prince Scam",
-      "videoId": "X8FxjDq2-HM",
-      "creator": "pleasantgreen",
-      "category": "online",
-      "description": "Pleasant Green engages a Nigerian 419 scammer for weeks, turning the tables with absurd requests.",
-      "date": "2020-09-01",
-      "views": "6.5M",
-      "duration": "22:44"
-    },
-    {
-      "id": 21,
-      "title": "Romance Scammer Begs Me To Stop",
-      "videoId": "nBT6RElhMZc",
-      "creator": "pleasantgreen",
-      "category": "romance",
-      "description": "A romance scammer gets frustrated as Pleasant Green strings them along with bizarre conversation.",
-      "date": "2021-05-01",
-      "views": "4.2M",
-      "duration": "19:58"
-    },
-    {
-      "id": 22,
-      "title": "Hacking A Scammer's Computer",
-      "videoId": "VKzViQSXJQg",
-      "creator": "scammerpayback",
-      "category": "phone",
-      "description": "Pierogi reverse-hacks into a scammer's computer, deleting their files and accessing their victim lists.",
-      "date": "2021-04-01",
-      "views": "14M",
-      "duration": "17:33"
-    },
-    {
-      "id": 23,
-      "title": "I Destroyed A Scam Call Center",
-      "videoId": "0HGo8cVXBDw",
-      "creator": "scammerpayback",
-      "category": "phone",
-      "description": "Pierogi gains full access to a scam call center's network, deleting data and disrupting their operations.",
-      "date": "2022-01-01",
-      "views": "22M",
-      "duration": "21:15"
-    },
-    {
-      "id": 24,
+      "id": 39,
       "title": "Exposing a Phone Scam Empire",
       "videoId": "xsLJZyih3Ac",
       "creator": "markrober",
@@ -371,7 +535,7 @@
       "duration": "25:48"
     },
     {
-      "id": 25,
+      "id": 40,
       "title": "Glitter Bomb 4.0 vs Porch Pirates",
       "videoId": "h4T_LlK1VE4",
       "creator": "markrober",
@@ -382,40 +546,7 @@
       "duration": "23:07"
     },
     {
-      "id": 26,
-      "title": "The Dark Side Of NFTs",
-      "videoId": "XwMjPWOoQ0U",
-      "creator": "someordinarygamers",
-      "category": "nft",
-      "description": "Mutahar exposes the rampant scams, wash trading, and fraud in the NFT space.",
-      "date": "2022-02-15",
-      "views": "4.5M",
-      "duration": "20:12"
-    },
-    {
-      "id": 27,
-      "title": "Exposing The Fake Guru Industry",
-      "videoId": "L7o6HymJmyc",
-      "creator": "coffeezilla",
-      "category": "online",
-      "description": "Investigation into fake guru course sellers who promise wealth through dropshipping, forex, and crypto.",
-      "date": "2021-07-01",
-      "views": "8.9M",
-      "duration": "26:30"
-    },
-    {
-      "id": 28,
-      "title": "I Infiltrated An Online Scam",
-      "videoId": "4o5hSIbEfSs",
-      "creator": "trilogymedia",
-      "category": "phone",
-      "description": "Trilogy Media goes undercover into a scam operation, leading to real-world confrontation with scammers.",
-      "date": "2022-06-15",
-      "views": "11M",
-      "duration": "28:44"
-    },
-    {
-      "id": 29,
+      "id": 41,
       "title": "The Billion Dollar OneCoin Scam",
       "videoId": "64xcgvEJ3Ys",
       "creator": "bbc",
@@ -427,37 +558,26 @@
       "duration": "48:15"
     },
     {
-      "id": 30,
-      "title": "Who's Behind The World's Biggest Scam Call Centres?",
-      "videoId": "3ANViPEfpCs",
-      "creator": "jimbrowning",
-      "category": "phone",
-      "description": "Multi-part investigation tracing the ownership and operations behind massive scam call center networks.",
-      "date": "2021-11-01",
-      "views": "8.2M",
-      "duration": "32:55"
-    },
-    {
-      "id": 31,
-      "title": "The Man Who Scammed The Internet",
-      "videoId": "jSVxLEFpjS0",
-      "creator": "coffeezilla",
-      "category": "crypto",
-      "description": "Exposing a serial internet scammer running multiple fraudulent crypto and NFT projects.",
-      "date": "2022-10-01",
-      "views": "7.3M",
-      "duration": "29:18"
-    },
-    {
-      "id": 32,
-      "title": "I Investigated A Pig Butchering Scam",
-      "videoId": "xoFaHBwbBd4",
+      "id": 42,
+      "title": "Scammers are Coming After Churches!",
+      "videoId": "vztnh6rF4Mc",
       "creator": "pleasantgreen",
-      "category": "romance",
-      "description": "Deep dive into pig butchering crypto romance scams, following the money trail and exposing the operation.",
-      "date": "2023-02-01",
-      "views": "3.5M",
-      "duration": "24:11"
+      "category": "online",
+      "description": "Scammers targeting churches and religious communities with donation fraud — Pleasant Green fights back.",
+      "date": "2025-11-28",
+      "views": "1.9M",
+      "duration": "16:20"
+    },
+    {
+      "id": 43,
+      "title": "This Scam Ad is Selling Thomas Edison's Blueprints!",
+      "videoId": "f8FJlc9HZns",
+      "creator": "pleasantgreen",
+      "category": "online",
+      "description": "Exposing bizarre scam ads that use historical figures to sell fake products and steal money.",
+      "date": "2025-09-20",
+      "views": "1.5M",
+      "duration": "14:45"
     }
   ]
 }
