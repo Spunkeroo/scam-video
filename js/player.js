@@ -76,6 +76,7 @@ const Player = {
             <a href="https://coinbase.com/join/YAGES3X?src=referral-link" target="_blank" rel="noopener sponsored" class="affiliate-link">&#128176; Buy Crypto Safely</a>
             <a href="https://kalshi.com/sign-up/?referral=6b723b42-d0c9-4421-9b4e-5af4b4c6c42c" target="_blank" rel="noopener sponsored" class="affiliate-link">&#128200; Trade on Kalshi</a>
             <a href="https://stake.us/?c=L2a8nG6c" target="_blank" rel="noopener sponsored" class="affiliate-link">&#127922; Play on Stake.us</a>
+          <a href="https://stake.com/?c=MyXSehCn" target="_blank" rel="noopener sponsored" class="affiliate-link stake">Stake.com</a>
             <a href="https://spunk.bet" target="_blank" rel="noopener" class="affiliate-link" style="color:#ff5f1f">&#127920; Spunk.Bet Casino</a>
           </div>
         </div>
